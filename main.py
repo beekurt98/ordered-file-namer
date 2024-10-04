@@ -1,8 +1,13 @@
 import os
 import glob
 
+"""
+A code by Bee Kurt
+https://github.com/beekurt98/ordered-file-namer
+"""
+
 path = input(r"Please enter the directory/path of the folder:" + "\n")  # Gets the file path
-name = input("Desired name after EVERY number. Can be left empty. For example, '1 Python Course.jpeg' :\n")  # Gets the name
+name = input("Desired name after EVERY number. Can be left empty:\n")  # Gets the name
 file_ext = input("File extension to search & change the name of. For example, png, jpeg, txt, pdf, etc.:\n")  # The file extension
 
 if name != " " or name != "":  # Checks if the name is empty. If not, adds a space before the name.
