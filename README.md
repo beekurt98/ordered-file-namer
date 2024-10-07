@@ -1,7 +1,7 @@
 # Chronological File Namer
 A code I wrote for my own use. 
 
-I take many screenshots when I'm on PC, especially while watching educational videos or playing games with stories. I wrote this code to rename every file in chronological order in my desired directory. 
+I take many screenshots when I'm on PC, especially while watching educational videos or playing games with stories. I wrote this code to rename every file in chronological order in desired directory. 
 
 The program asks the user for a directory, a name and a file extension. 
 
